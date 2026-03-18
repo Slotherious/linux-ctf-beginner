@@ -1,0 +1,11 @@
+GUTECH{you_did_it}
+
+🎉 Congratulations!
+
+You used:
+- ls
+- cd
+- cat
+- ls -a
+
+Welcome to Linux 🚀

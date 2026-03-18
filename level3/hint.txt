@@ -1,0 +1,7 @@
+Some files are hidden in Linux.
+
+Use:
+ls -a
+
+Then open the file that starts with a dot (.) using:
+cat .filename

@@ -1,0 +1,2 @@
+GUTECH{first_flag}
+➡️ Nice! Now go into level1
