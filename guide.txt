@@ -1,0 +1,18 @@
+# Linux Beginner CTF 🎯
+
+Welcome!
+
+## 🎯 Goal
+Find all the flags.
+
+## 🧰 Commands you may need
+- ls
+- cd
+- cat
+- ls -a
+
+## 🚩 Flag format
+GUTECH{...}
+
+## 🚀 Start
+Look around and begin from here 👀
